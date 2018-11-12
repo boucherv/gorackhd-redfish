@@ -3,7 +3,7 @@ info:
   version: "0.0.1"
   title: Redfish v1.0.0
 # during dev, should point to your local machine
-#host: localhost:8080
+host: 172.17.0.3:8001
 # basePath prefixes all resource paths
 basePath: /redfish/v1
 #
